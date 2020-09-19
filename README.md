@@ -1,5 +1,7 @@
-## Visualising your DNS records using neo4j
+## Visualising DNS records with Neo4j
 
+
+Context: https://medium.com/@costask/querying-and-visualising-octodns-records-with-neo4j-f4f72ab2d474
 ## Get started
 
 ```sh
